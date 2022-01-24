@@ -1,0 +1,39 @@
+.games {
+  ul {
+    list-style-type: none;
+
+    li {
+      display: flex;
+      margin-right: 1rem;
+      align-items: center;
+
+      .team {
+        display: flex;
+        align-items: center;
+
+        margin-right: 1rem;
+
+        .name {
+          width: 8rem;
+          font-size: 20px;
+          font-weight: bold;
+        }
+
+        img {
+          width: 50px;
+        }
+      }
+
+      .versus {
+        font-size: 32px;
+        font-weight: bold;
+        margin-right: 1rem;
+      }
+
+      .percentage {
+        margin: 0 1rem;
+        font-size: 19px;
+      }
+    }
+  }
+}
