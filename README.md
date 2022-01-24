@@ -12,7 +12,7 @@ An easy and convenient game overlay manager with OBS integration
 
 The main idea was to recreate the same overlay that the Baiano streamer uses in his lives analyzing competitive matches.
 
-[![Preview video](./.github/analyst-obs-overlay.mp4)](./.github/analyst-obs-overlay.mp4 'Preview video')
+![Preview](.github/analyst-obs-overlay.gif)
 
 ## Tech
 
